@@ -1,15 +1,19 @@
-# Gabriel Neves do Nascimento
+# 👨‍💻 Gabriel Neves do Nascimento
+
 <div align="center">
-  <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="100%" alt="Banner">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="100%" alt="Banner" />
 </div>
 
-# 👨‍💻 Gabriel — Desenvolvedor em Formação
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+
+---
 
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java
 
@@ -19,10 +23,12 @@ Tenho especial interesse em **desenvolvimento de software, Java e criação de s
 
 Atualmente, estou aprofundando meus conhecimentos em programação e desenvolvimento de aplicações, com foco em evoluir não apenas na escrita de código, mas também em **arquitetura, organização, boas práticas, persistência de dados, testes e resolução de problemas**.
 
-## 🛠️ Tecnologias e conhecimentos
+---
+
+## 🛠️ Tecnologias e Conhecimentos
 
 * ☕ **Java**
-* 🧩 Programação Orientada a Objetos
+* 🧩 Programação Orientada a Objetos (POO)
 * 🏗️ Estruturação e organização de projetos
 * 🔌 Desenvolvimento de plugins para Minecraft
 * 📚 Lógica de programação
@@ -31,7 +37,9 @@ Atualmente, estou aprofundando meus conhecimentos em programação e desenvolvim
 * 🔄 Git e desenvolvimento colaborativo
 * 🎮 Desenvolvimento de sistemas para jogos
 
-## 🚧 Projeto em destaque
+---
+
+## 🚧 Projeto em Destaque
 
 ### ⛏️ Veltrix
 
@@ -47,9 +55,11 @@ O projeto envolve a criação e integração de diferentes sistemas, incluindo:
 * ⚔️ Habilidades e sistemas de progressão
 * 🔧 Desenvolvimento e integração de plugins
 
-O Veltrix também representa uma parte importante da minha evolução como desenvolvedor, já que me permite aplicar conceitos de **Java, orientação a objetos, APIs e desenvolvimento de sistemas** em um projeto de maior escala.
+O Veltrix representa uma parte importante da minha evolução como desenvolvedor, permitindo aplicar conceitos de **Java, orientação a objetos, APIs e desenvolvimento de sistemas** em um projeto de maior escala.
 
-## 📈 Minha trajetória
+---
+
+## 📈 Minha Trajetória
 
 Minha evolução na programação tem sido construída principalmente através da prática.
 
@@ -58,6 +68,8 @@ Comecei desenvolvendo minha base em **lógica de programação e Java**, avança
 Com o tempo, passei a buscar desafios maiores, principalmente através do desenvolvimento de **plugins para Minecraft e projetos próprios**, onde comecei a perceber que programar não é apenas fazer o código funcionar — é também aprender a estruturar, manter, testar e evoluir um sistema.
 
 Ainda estou no processo de desenvolvimento dessas habilidades e tenho como objetivo continuar fortalecendo minha base técnica enquanto construo projetos que possam fazer parte do meu portfólio profissional.
+
+---
 
 ## 🎯 Objetivos
 
@@ -69,18 +81,12 @@ Quero construir uma carreira sólida na área de tecnologia, aprofundando meus c
 
 ---
 
-### 📊 Em constante evolução
+### 📊 Em Constante Evolução
 
-```text
+```gcode
 Programação        █████████░░  Em evolução
 Java               ████████░░░  Em evolução
 POO                ████████░░░  Em evolução
 Projetos próprios  ████████░░░  Em evolução
 Arquitetura        █████░░░░░░  Estudando
 Testes             ████░░░░░░░  Estudando
-```
-
-### 📫 Vamos construir algo?
-
-Estou sempre buscando novos desafios, projetos e oportunidades para colocar conhecimento em prática e continuar evoluindo como desenvolvedor.
-
