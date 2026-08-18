@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-Sim. O README atual está desalinhado com sua trajetória: ele apresenta você como **professora de programação e robótica**, enquanto o que tenho registrado sobre sua caminhada é mais voltado para **desenvolvimento de software, Java, projetos próprios, Minecraft e construção de portfólio**, além de você estar cursando **Análise e Desenvolvimento de Sistemas**.
-
-Eu faria algo mais profissional e honesto, sem tentar parecer um desenvolvedor sênior antes da hora. Também destacaria o projeto **Veltrix**, porque ele mostra que você não está apenas estudando programação — já está tentando aplicar o conhecimento em um projeto real.
-
 # 👨‍💻 Gabriel — Desenvolvedor em Formação
 
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java
