@@ -73,13 +73,3 @@ Quero construir uma carreira sólida na área de tecnologia, aprofundando meus c
 > **Aprender → construir → quebrar → entender → melhorar.**
 
 ---
-
-### 📊 Em Constante Evolução
-
-```gcode
-Programação        █████████░░  Em evolução
-Java               ████████░░░  Em evolução
-POO                ████████░░░  Em evolução
-Projetos próprios  ████████░░░  Em evolução
-Arquitetura        █████░░░░░░  Estudando
-Testes             ████░░░░░░░  Estudando
