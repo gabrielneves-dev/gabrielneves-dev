@@ -4,10 +4,13 @@
 
 <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="60%" alt="Banner" />
 
-</div>
+<div align="center">
+
 <a href="mailto:SEUEMAIL@GMAIL.COM" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
+</div>
 ---
 
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java
