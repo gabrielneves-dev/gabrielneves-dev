@@ -1,6 +1,8 @@
 <div align="center">
+
 # 👨‍💻 Gabriel Neves do Nascimento
-  <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="60%" alt="Banner" />
+
+<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="60%" alt="Banner" />
 
 </div>
 
@@ -69,5 +71,3 @@ Meu objetivo é evoluir continuamente como desenvolvedor e transformar conhecime
 Quero construir uma carreira sólida na área de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software e ampliando gradualmente meu domínio sobre diferentes ferramentas, tecnologias e arquiteturas.
 
 > **Aprender → construir → quebrar → entender → melhorar.**
-
----
