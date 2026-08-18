@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DA_SUA_IMAGEM_OU_GIF" width="100%" alt="Banner">
+  <img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="100%" alt="Banner">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
