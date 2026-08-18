@@ -46,7 +46,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação e desenvolvim
 
 
 
-* ☕ **Java**
+* ☕ **JavaScript**
 
 * 🧩 Programação Orientada a Objetos (POO)
 
